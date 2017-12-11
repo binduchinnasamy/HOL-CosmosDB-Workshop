@@ -1,4 +1,4 @@
-#Azur Cosmos DB Workshop - HOL
+**#Azur Cosmos DB Workshop - HOL
 
 1. HOL for Azure Cosmos Graph DB https://github.com/binduchinnasamy/HOL-CosmosDB-Workshop/blob/master/HOL-Graph.docx
 2. HOL for MongoDB Migration https://github.com/binduchinnasamy/HOL-CosmosDB-Workshop/blob/master/HOL-MongoDBMigration.docx
